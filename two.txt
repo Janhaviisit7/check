@@ -1,0 +1,1 @@
+VCSs give each contributor a unified and consistent view of a project, surfacing work that's already in progress. Seeing a gitransparent history of changes, who made them, and how they contribute to the development of a project helps team members stay aligned while working independently.
